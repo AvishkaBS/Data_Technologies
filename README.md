@@ -3,14 +3,14 @@ Online Banking System for Data Technologies module
 
 a simple SQL database connected with java forms for Managing Two tables (Customer, Account) in the database. Two UI based java forms are used to Insert, Delete, Update Data in the database.
 
-Built with
+**Built with**
 
 MYSQL Workbench
 Java as the main programming language
 JavaFX for User interface
 
 
-Instructions
+**Instructions**
 
 Install MYSQL Workbench
 
